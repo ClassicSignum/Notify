@@ -53,9 +53,7 @@ body{
 	color: #fff;
 }
 /*green design starts*/
-.greenDesign .col-md-4{
-	border: 1px solid red;
-}
+
 .greenDesign .container .row .col-md-4{
 	margin-top: 58px;
 	position: relative;
